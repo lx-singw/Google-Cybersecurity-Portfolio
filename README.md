@@ -55,8 +55,7 @@ Leveraging my foundational academic background in computer science, these projec
 
 ## 📊 Academic Foundation & Certifications
 * **Google Cybersecurity Professional Certificate** — Coursera (Verified Credential)
-* **BSc in Computing (In Progress)** — University of South Africa (UNISA)
-* **Computer Science Coursework (Historical)** — University of the Witwatersrand (Wits)
+* **Computer Science Coursework (Historical)** — Rhodes University (Rhodes) - Discontinued
 
 ---
 
