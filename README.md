@@ -51,6 +51,11 @@ Leveraging my foundational academic background in computer science, these projec
 * **The Solution:** Monitored live network interfaces using `tcpdump` to capture packets into standard `.pcap` files. Exported data into **Wireshark** to filter for abnormal protocol distributions (DNS/HTTP), reconstruct raw TCP streams, and locate malformed headers indicative of malicious network scanning tools.
 * **Key Skills:** Packet Analysis, Protocol Triage, Network Fundamentals, Telemetry Diagnostics.
 
+### 🛡️ 5. Risk Management: Enterprise Vulnerability Assessment
+* **Directory Link:** [`/vulnerability-assessment`](./vulnerability-assessment)
+* **Summary:** Conducted an internal security evaluation of an e-commerce database server exposed to the public internet, drafting an enterprise mitigation blueprint utilizing VPN architecture and IAM policies.
+
+
 ---
 
 ## 📊 Academic Foundation & Certifications
