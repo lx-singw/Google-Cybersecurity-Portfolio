@@ -65,5 +65,5 @@ Leveraging my foundational academic background in computer science, these projec
 I am actively seeking junior positions within South African tech teams, specifically targeting **Junior Security Analyst**, **SOC Analyst (L1)**, or **System Support** roles.
 
 * **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* **Email:** [your.email@domain.co.za](mailto:your.email@domain.co.za)
+* **Email:** [singwane.linda.m@gmail@domain.co.za](mailto:your.email@domain.co.za)
 * **Location:** Johannesburg, South Africa 🇿🇦
